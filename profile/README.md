@@ -1,6 +1,7 @@
 ## Stotina-Games
 
 I will be posting all the games I make (while learning) here.
+
 I will try to make most of them playable from the browser.
 
 <!--
